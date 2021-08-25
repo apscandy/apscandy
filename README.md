@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### Welcome to my profile
 
+A bit about myself
+
 - My favorate languge is Python 3🐍
 - My next languge Im learning is Go 
 - Currently studying a cert 4 in cyber security at Tafe QLD
