@@ -1,14 +1,9 @@
 ## Hi there 👋
 ### Welcome to my profile
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cyber secrity with code
-- 🌱 I’m currently learning Go and Web Devolpment 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- My favorate languge is Python 3🐍
+- My next languge Im learning is Go 
+- Currently studying a cert 4 in cyber security at Tafe QLD
+- After my cert 4 I want to QUT for a BA in computer sciance
+- I love Devops and network automation
+- 
