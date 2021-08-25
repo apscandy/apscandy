@@ -1,5 +1,5 @@
-### Hi there 👋
-#### Welcome to my profile
+## Hi there 👋
+### Welcome to my profile
 
 
 Here are some ideas to get you started:
