@@ -11,6 +11,8 @@ Skills: Python / Go / HTML / CSS / BASH
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I Hate Java or Java hates me? 
 
+---
+
 ![Profile views](https://gpvc.arturio.dev/apscandy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apscandy)](https://github.com/anuraghazra/github-readme-stats)
