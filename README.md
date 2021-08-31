@@ -1,4 +1,4 @@
-### Hi there 👋, I'm andy
+### Hi there 👋, I'm Andy
 #### hobbyist programmer
 ![hobbyist programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -11,6 +11,7 @@ Skills: Python / Go / HTML / CSS / BASH
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I Hate Java or Java hates me? 
 
+![Profile views](https://gpvc.arturio.dev/apscandy)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apscandy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andrew-clarke-534a62195//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@andy_netsec)  
 
@@ -18,6 +19,4 @@ Skills: Python / Go / HTML / CSS / BASH
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apscandy&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/apscandy)  
-
-![Profile views](https://gpvc.arturio.dev/apscandy)  
+![GitHub metrics](https://metrics.lecoq.io/apscandy)   
