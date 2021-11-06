@@ -15,6 +15,8 @@ Skills: Python / Go / HTML / CSS / BASH
 
 ---
 
+![Code wars](https://www.codewars.com/users/apscandy/badges/large)
+
 ![Profile views](https://gpvc.arturio.dev/apscandy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apscandy)](https://github.com/anuraghazra/github-readme-stats)
