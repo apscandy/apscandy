@@ -1,15 +1,3 @@
-<style>
-.image{
-  background-color: #ffffff;
-}
-.badge {
-  background-color: #ffffff;
-}
-h2 {
-     color: black;
-}
-</style>
-
 <div class="image" align="center">
     <br>
     <img src="main.gif" alt="header"/>
