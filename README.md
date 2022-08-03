@@ -9,135 +9,89 @@
 <thead>
 <th>name</th>
 <th>description</th>
-<th>link</th>
 </thead>
 <tbody>
 
 <tr>
 <td>
-apscandy/apscandy
+<a href="https://github.com/apscandy/apscandy">apscandy/apscandy</a>
 </td>
 <td>
 
 README profile with basic information about myself ( NOW with automation!!! )
 
-</td>
-<td>
-<a href="https://github.com/apscandy/apscandy">https://github.com/apscandy/apscandy</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/asynchronous-blog
+<a href="https://github.com/apscandy/asynchronous-blog">apscandy/asynchronous-blog</a>
 </td>
 <td>
 
 no description available
 
-</td>
-<td>
-<a href="https://github.com/apscandy/asynchronous-blog">https://github.com/apscandy/asynchronous-blog</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/Ceaser
+<a href="https://github.com/apscandy/Ceaser">apscandy/Ceaser</a>
 </td>
 <td>
 
 Command line Ceaser cipher for my tafe assessment ICTPRG405
 
-</td>
-<td>
-<a href="https://github.com/apscandy/Ceaser">https://github.com/apscandy/Ceaser</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/database-hash-demo-python
+<a href="https://github.com/apscandy/database-hash-demo-python">apscandy/database-hash-demo-python</a>
 </td>
 <td>
 
 A small demo of how a salt and pepper would work
 
-</td>
-<td>
-<a href="https://github.com/apscandy/database-hash-demo-python">https://github.com/apscandy/database-hash-demo-python</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/personal-site
+<a href="https://github.com/apscandy/personal-site">apscandy/personal-site</a>
 </td>
 <td>
 
 My personal site hosted via Github pages
 
-</td>
-<td>
-<a href="https://github.com/apscandy/personal-site">https://github.com/apscandy/personal-site</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/resume
+<a href="https://github.com/apscandy/resume">apscandy/resume</a>
 </td>
 <td>
 
 no description available
 
-</td>
-<td>
-<a href="https://github.com/apscandy/resume">https://github.com/apscandy/resume</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/tafe-timetable
+<a href="https://github.com/apscandy/tafe-timetable">apscandy/tafe-timetable</a>
 </td>
 <td>
 
 A fun little project to scrape tafe's get requests for the timetable results, added a discord element to get my timetable in the server. Only works for students in Brisbane. 
 
-</td>
-<td>
-<a href="https://github.com/apscandy/tafe-timetable">https://github.com/apscandy/tafe-timetable</a>
-</td>
-</tr>
 
 <tr>
 <td>
-apscandy/UsefulScripts
+<a href="https://github.com/apscandy/UsefulScripts">apscandy/UsefulScripts</a>
 </td>
 <td>
 
 Repository for various scripts that can help to automate tasks in everyday life.
 
-</td>
-<td>
-<a href="https://github.com/apscandy/UsefulScripts">https://github.com/apscandy/UsefulScripts</a>
-</td>
-</tr>
 
 <tr>
 <td>
-jimcinbrisbane/IsKirby
+<a href="https://github.com/jimcinbrisbane/IsKirby">jimcinbrisbane/IsKirby</a>
 </td>
 <td>
 
 new way to achieve randomness
 
-</td>
-<td>
-<a href="https://github.com/jimcinbrisbane/IsKirby">https://github.com/jimcinbrisbane/IsKirby</a>
-</td>
-</tr>
 
 </tbody>
 </table>

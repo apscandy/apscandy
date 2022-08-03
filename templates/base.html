@@ -9,13 +9,12 @@
 <thead>
 <th>name</th>
 <th>description</th>
-<th>link</th>
 </thead>
 <tbody>
 {% for repo in api_data_list %}
 <tr>
 <td>
-{{ repo.full_name }}
+<a href="{{ repo.html_url }}">{{ repo.full_name }}</a>
 </td>
 <td>
 {% if repo.description == None %}
@@ -23,11 +22,6 @@ no description available
 {% else %}
 {{repo.description}}
 {% endif %}
-</td>
-<td>
-<a href="{{ repo.html_url }}">{{ repo.html_url }}</a>
-</td>
-</tr>
 {% endfor %}
 </tbody>
 </table>
