@@ -86,6 +86,15 @@ Repository for various scripts that can help to automate tasks in everyday life.
 
 <tr>
 <td>
+<a href="https://github.com/apscandy/Wallpapers">apscandy/Wallpapers</a>
+</td>
+<td>
+
+Lillians wallpapers 
+
+
+<tr>
+<td>
 <a href="https://github.com/jimcinbrisbane/IsKirby">jimcinbrisbane/IsKirby</a>
 </td>
 <td>
