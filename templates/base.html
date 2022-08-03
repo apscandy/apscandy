@@ -64,132 +64,22 @@
 <th>link</th>
 </thead>
 <tbody>
-
+{% for repo in api_data_list %}
 <tr>
 <td>
-apscandy/apscandy
+{{ repo.full_name }}
 </td>
 <td>
-
-README profile with basic information about myself 
-
-</td>
-<td>
-<a href="https://github.com/apscandy/apscandy">https://github.com/apscandy/apscandy</a>
-</td>
-</tr>
-
-<tr>
-<td>
-apscandy/asynchronous-blog
-</td>
-<td>
-
+{% if repo.description == None %}
 no description available
-
+{% else %}
+{{repo.description}}
+{% endif %}
 </td>
 <td>
-<a href="https://github.com/apscandy/asynchronous-blog">https://github.com/apscandy/asynchronous-blog</a>
+<a href="{{ repo.html_url }}">{{ repo.html_url }}</a>
 </td>
 </tr>
-
-<tr>
-<td>
-apscandy/Ceaser
-</td>
-<td>
-
-Command line Ceaser cipher for my tafe assessment ICTPRG405
-
-</td>
-<td>
-<a href="https://github.com/apscandy/Ceaser">https://github.com/apscandy/Ceaser</a>
-</td>
-</tr>
-
-<tr>
-<td>
-apscandy/database-hash-demo-python
-</td>
-<td>
-
-A small demo of how a salt and pepper would work
-
-</td>
-<td>
-<a href="https://github.com/apscandy/database-hash-demo-python">https://github.com/apscandy/database-hash-demo-python</a>
-</td>
-</tr>
-
-<tr>
-<td>
-apscandy/personal-site
-</td>
-<td>
-
-My personal site hosted via Github pages
-
-</td>
-<td>
-<a href="https://github.com/apscandy/personal-site">https://github.com/apscandy/personal-site</a>
-</td>
-</tr>
-
-<tr>
-<td>
-apscandy/resume
-</td>
-<td>
-
-no description available
-
-</td>
-<td>
-<a href="https://github.com/apscandy/resume">https://github.com/apscandy/resume</a>
-</td>
-</tr>
-
-<tr>
-<td>
-apscandy/tafe-timetable
-</td>
-<td>
-
-A fun little project to scrape tafe's get requests for the timetable results, added a discord element to get my timetable in the server. Only works for students in Brisbane. 
-
-</td>
-<td>
-<a href="https://github.com/apscandy/tafe-timetable">https://github.com/apscandy/tafe-timetable</a>
-</td>
-</tr>
-
-<tr>
-<td>
-apscandy/UsefulScripts
-</td>
-<td>
-
-Repository for various scripts that can help to automate tasks in everyday life.
-
-</td>
-<td>
-<a href="https://github.com/apscandy/UsefulScripts">https://github.com/apscandy/UsefulScripts</a>
-</td>
-</tr>
-
-<tr>
-<td>
-jimcinbrisbane/IsKirby
-</td>
-<td>
-
-new way to achieve randomness
-
-</td>
-<td>
-<a href="https://github.com/jimcinbrisbane/IsKirby">https://github.com/jimcinbrisbane/IsKirby</a>
-</td>
-</tr>
-
+{% endfor %}
 </tbody>
 </table>
