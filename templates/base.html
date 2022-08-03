@@ -1,7 +1,38 @@
 <div class="image" align="center">
-    <br>
-    <img src="main.gif" alt="header"/>
+<br>
+<img src="main.gif" alt="header"/>
 </div>
+<!-- auto -->
+<div class="github-api-template" align="center">
+<h3>My public repos</h3>
+<table>
+<thead>
+<th>name</th>
+<th>description</th>
+<th>link</th>
+</thead>
+<tbody>
+{% for repo in api_data_list %}
+<tr>
+<td>
+{{ repo.full_name }}
+</td>
+<td>
+{% if repo.description == None %}
+no description available
+{% else %}
+{{repo.description}}
+{% endif %}
+</td>
+<td>
+<a href="{{ repo.html_url }}">{{ repo.html_url }}</a>
+</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+<!-- end auto -->
 
 <div class="badge">
     <div align="center">
@@ -53,34 +84,3 @@
     </div>
 
 </div>
-
-<div class="github-api-template" align="center">
-<h3>My public repos</h3>
-<table>
-<thead>
-<th>name</th>
-<th>description</th>
-<th>link</th>
-</thead>
-<tbody>
-{% for repo in api_data_list %}
-<tr>
-<td>
-{{ repo.full_name }}
-</td>
-<td>
-{% if repo.description == None %}
-no description available
-{% else %}
-{{repo.description}}
-{% endif %}
-</td>
-<td>
-<a href="{{ repo.html_url }}">{{ repo.html_url }}</a>
-</td>
-</tr>
-{% endfor %}
-</tbody>
-</table>
-</div>
-          
