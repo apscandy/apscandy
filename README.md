@@ -56,7 +56,7 @@
 
 <div class="github-api-template" align="center">
 <h3>My public repos</h3>
-<div>
+
 <table>
 <thead>
 <th>name</th>
@@ -193,3 +193,6 @@ new way to achieve randomness
 
 </tbody>
 </table>
+</div>
+          
+          
