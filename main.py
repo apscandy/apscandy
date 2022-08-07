@@ -1,7 +1,6 @@
 import requests
 from jinja2 import Environment, FileSystemLoader
 import os
-
 class Config:
     # auth_token = os.environ["API_KEY"]
     auth_token = "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"
