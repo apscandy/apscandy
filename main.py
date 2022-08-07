@@ -1,15 +1,18 @@
 import requests
 from jinja2 import Environment, FileSystemLoader
 import os
+
 class Config:
-    # auth_token = os.environ["API_KEY"]
-    auth_token = "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"
+    auth_token = os.environ["API_KEY"]
     header = {'Authorization': 'Bearer ' + auth_token}
-    url = "https://api.github.com/user/repos"
+    api_url = "https://api.github.com/user/repos"
+    user_url = "https://api.github.com/users/apscandy"
 
 class Fetch:
-    response = list(requests.request("GET", Config.url, headers=Config.header).json())
+    profile = requests.request("GET", Config.user_url).json()
+    response = list(requests.request("GET", Config.api_url, headers=Config.header).json())
     response = [i for i in response if i["private"] == False]
+
 
 class UpdateReadme:
     template_env = Environment(loader=FileSystemLoader(searchpath="./templates"))
