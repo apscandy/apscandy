@@ -69,6 +69,15 @@ no description available
 
 <tr>
 <td>
+<a href="https://github.com/apscandy/ssh_logs">apscandy/ssh_logs</a>
+</td>
+<td>
+
+no description available
+
+
+<tr>
+<td>
 <a href="https://github.com/apscandy/tafe-timetable">apscandy/tafe-timetable</a>
 </td>
 <td>
