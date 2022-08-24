@@ -109,7 +109,7 @@ Lillians wallpapers
 </td>
 <td>
 
-no description available
+CAB302 2022 Assignment - Maze Generation software with image embedding
 
 
 <tr>
