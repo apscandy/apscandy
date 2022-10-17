@@ -123,6 +123,24 @@ no description available
 
 <tr>
 <td>
+<a href="https://github.com/codenetwork/Archived-CodeNetwork.co">codenetwork/Archived-CodeNetwork.co</a>
+</td>
+<td>
+
+no description available
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/CN-VSCode-Theme">codenetwork/CN-VSCode-Theme</a>
+</td>
+<td>
+
+Code Network themed VSCode color theme
+
+
+<tr>
+<td>
 <a href="https://github.com/codenetwork/codenetwork.co">codenetwork/codenetwork.co</a>
 </td>
 <td>
@@ -132,11 +150,65 @@ Offical Code Network Website
 
 <tr>
 <td>
-<a href="https://github.com/jimcinbrisbane/IsKirby">jimcinbrisbane/IsKirby</a>
+<a href="https://github.com/codenetwork/CookBook">codenetwork/CookBook</a>
 </td>
 <td>
 
-new way to achieve randomness
+A shameless copy of our friends over at UQCS: https://github.com/UQComputingSociety
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/discord-bot">codenetwork/discord-bot</a>
+</td>
+<td>
+
+Bot for the official Code Network Discord. PRs welcome.
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/Discord-Bot-2.0">codenetwork/Discord-Bot-2.0</a>
+</td>
+<td>
+
+no description available
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/lossless-compression">codenetwork/lossless-compression</a>
+</td>
+<td>
+
+lossless-compression
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/Me4Bot">codenetwork/Me4Bot</a>
+</td>
+<td>
+
+Me4Bot - The best bot since sliced bread was made by bots
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/ReactNative-Flutter-App">codenetwork/ReactNative-Flutter-App</a>
+</td>
+<td>
+
+Translator Flutter App designed to translate between native Australian languages. 
+
+
+<tr>
+<td>
+<a href="https://github.com/codenetwork/shirt">codenetwork/shirt</a>
+</td>
+<td>
+
+Bad frontend for buying shirts
 
 
 </tbody>
