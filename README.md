@@ -82,7 +82,7 @@ no description available
 </td>
 <td>
 
-A fun little project to scrape tafe's get requests for the timetable results, added a discord element to get my timetable in the server. Only works for students in Brisbane. 
+A fun little project to scrape tafe get requests for the timetable results, added a discord element to get my timetable in the server. Only works for students in Brisbane. 
 
 
 <tr>
