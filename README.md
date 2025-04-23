@@ -17,23 +17,23 @@ Current computer science student at Queensland University of Technology (QUT)
 Below are my favorite or preferred languages and tools, as they can offer simple ways achieve business goals.
 </p>
 <h3>Backend languages</h3>
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <br>
 <h3>Databases</h3>
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <br>
 <h3>Frontend frameworks</h3>
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <br>
 <h3>Container systems</h3>
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" />
 <br>
 <!-- <h3>Container orchestrators</h3>
@@ -50,12 +50,12 @@ Below are my favorite or preferred languages and tools, as they can offer simple
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 <br> -->
 <h3>Remote git providers</h3>      
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br>
 <h3>Continuous integration</h3>
-<img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img align="left" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <br />
 
